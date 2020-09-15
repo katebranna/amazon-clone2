@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Followed a tutorial via CleverProgrammers
+Link to the final project: https://clone-82b31.web.app
 
 ## Available Scripts
 
